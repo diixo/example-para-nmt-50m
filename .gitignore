@@ -1,0 +1,5 @@
+*.pyc
+*__pycache__/
+/.idea
+
+para-nmt-50m.txt
